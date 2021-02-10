@@ -24,7 +24,7 @@ ORTHOPUS cannot guarantee the “quality” of solutions replicated by third par
 
 ## GUITAR PICK HOLDER 3D PRINTED
 
-![Pick-holder_ORTHOPUS_3Dprinted](./assets/Pick-holder_ORTHOPUS_3Dprinted.JPG =400x)
+![Pick-holder_ORTHOPUS_3Dprinted](assets/Pick-holder_ORTHOPUS_3Dprinted.JPG =400x)
 
 ### D.I.Y Level **⭐**
 
@@ -64,8 +64,8 @@ Your contribution to the **Tennis Ball Holder v2.0** and the **Pick Holder v2.0*
   * Go to the GitHub [issues](https://github.com/orthopus/01-mechanicals-tools/issues) of the project.
 * You have time, some Maker skills and you want to help us ?
   * ***If you need to make some modifications, our Fusion 360 source files are available on request, don’t hesitate to ask us!***
-  * Read the [CONTRIBUTING](CONTRIBUTING.md) file to help us to upgrade this project
-  * Read the [CODEOFCONDUCT](CODEOFCONDUCT.md) file to know community standards
+  * Read the [CONTRIBUTING](CONTRIBUTING‧md) file to help us to upgrade this project
+  * Read the [CODEOFCONDUCT](CODEOFCONDUCT‧md) file to know community standards
 
 
 
