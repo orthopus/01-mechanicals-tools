@@ -23,7 +23,7 @@ In this manual, you will find all the resources to design the ORTHOPUS' 3D print
 
 The **Tennis Ball Holder** will house the tennis ball. It will allow you to throw the tennis ball and to serve as a pro! The 3D printed body of the Tennis ball Holder needs to be connected to the **Tool Holder 3D printed.** Thus, to make a Tennis Ball Holder compatible with the Universal Wrist you need to assemble the 3D printed body with a **Tool Holder 3D printed.**
 
-The .STL file are available in [this repository](https://github.com/orthopus/01-wrist/tree/main/src/Tool-holder%203D%20print)
+The .STL file are available [here](https://github.com/orthopus/01-mechanicals-tools/tree/main/src/TennisBallHolder-3D)
 
 We used the Ultimaker Cura slicer and an Ultimaker Extended 2+ 3D printer.
 
