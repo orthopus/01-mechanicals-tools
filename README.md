@@ -1,8 +1,6 @@
-# 01-mechanical-tools
+# Mechanicals Tools for hand amputees
 
 ![Generic badge](https://img.shields.io/badge/CE_Mark-NO-critical.svg)
-
-## MECHANICALS TOOLS
 
 This repository contents documentation of mechanicals tools dedicated to daily life use : suitable tools to practice music, sports, cooking, etc !
 
@@ -14,17 +12,15 @@ For now you will find :
 These tools can be used with the [ORTHOPUS' universal mechanical wrist](https://github.com/orthopus/01-wrist) and his 
 
 
-
 ## WARNING NOTICE BEFORE STARTING
 
 The versions of our solutions reproduced in Do It Yourself do not have the CE marking. It can only be apply to solutions developed and sold by ORTHOPUS which follow the regulations in force.
 ORTHOPUS cannot guarantee the “quality” of solutions replicated by third parties thanks to documentation shared on github.
 
 
-
 ## GUITAR PICK HOLDER 3D PRINTED
 
-![Pick-holder_ORTHOPUS_3Dprinted]<img src="https://github.com/orthopus/01-mechanicals-tools/blob/main/assets/Pick-holder_ORTHOPUS_3Dprinted.JPG" width="300"/>
+<img src="https://github.com/orthopus/01-mechanicals-tools/blob/main/assets/Pick-holder_ORTHOPUS_3Dprinted.JPG" width="500"/>
 
 ### D.I.Y Level **⭐**
 
@@ -41,7 +37,7 @@ To make your own Pick Holder, follow the [Making Manual](https://github.com/orth
 
 ## TENNIS BALL HOLDER 3D PRINTED
 
-![Tennis-Ball-Holder_ORTHOPUS_3Dprinted](https://github.com/orthopus/01-mechanicals-tools/blob/main/assets/Tennis-Ball-Holder_ORTHOPUS_3Dprinted.JPG)
+<img src="https://github.com/orthopus/01-mechanicals-tools/blob/main/assets/Tennis-Ball-Holder_ORTHOPUS_3Dprinted.JPG" width="500"/>
 
 ### D.I.Y Level **⭐**
 
