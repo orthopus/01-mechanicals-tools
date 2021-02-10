@@ -24,9 +24,10 @@ ORTHOPUS cannot guarantee the “quality” of solutions replicated by third par
 
 ## GUITAR PICK HOLDER 3D PRINTED
 
-![Pick-holder_ORTHOPUS_3Dprinted](https://github.com/orthopus/01-mechanicals-tools/blob/main/assets/Pick-holder_ORTHOPUS_3Dprinted.JPG =300x)
+![Pick-holder_ORTHOPUS_3Dprinted](https://github.com/orthopus/01-mechanicals-tools/blob/main/assets/Pick-holder_ORTHOPUS_3Dprinted.JPG)
 
 ### D.I.Y Level **⭐**
+
 
 **Required devices** : To make your own Pick Holder, we will need a 3D printer, a guitar pick, and some basics screws (you will find a detailed list of equipment in the *user manual*)
 
@@ -34,13 +35,13 @@ We give more details about how to get the best experiences with the **Pick Holde
 
 You can manufacture the Toll holder for less than 5€ : more details in the *COSTS* file.
 
-To make your own Tennis Ball Holder, follow the **Process and Assembly manual**.
+To make your own Pick Holder, follow the [Making Manual](https://github.com/orthopus/01-mechanicals-tools/blob/main/docs/PickHolder_making-manual.md).
 
 
 
 ## TENNIS BALL HOLDER 3D PRINTED
 
-![Tennis-Ball-Holder_ORTHOPUS_3Dprinted](./assets/Tennis-Ball-Holder_ORTHOPUS_3Dprinted.JPG =400x)
+![Tennis-Ball-Holder_ORTHOPUS_3Dprinted](https://github.com/orthopus/01-mechanicals-tools/blob/main/assets/Tennis-Ball-Holder_ORTHOPUS_3Dprinted.JPG)
 
 ### D.I.Y Level **⭐**
 
@@ -52,8 +53,7 @@ We give more details about how to get the best experiences with the **Tennis Bal
 
 You can manufacture the Toll holder for less than 5€ : more details in the *COSTS* file.
 
-To make your own Tennis Ball Holder, follow the **Process and Assembly manual**
-
+To make your own Tennis Ball Holder, follow the [Making Manual](https://github.com/orthopus/01-mechanicals-tools/blob/main/docs/PickHolder_making-manual.md).
 
 
 ## CONTRIBUTION
