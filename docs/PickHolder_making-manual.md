@@ -1,6 +1,6 @@
 # Pick Holder 3D : Making Manual
 
-In this manual, you will find all the resources to design the Pick Holder.
+In this manual, you will find all the resources to design the ORTHOPUS 3D printed Pick Holder.
 
 <img src="https://github.com/orthopus/01-mechanicals-tools/blob/main/assets/Pick-holder_ORTHOPUS_3Dprinted.JPG" width="500"/>
 
@@ -30,7 +30,7 @@ To avoid the pick holder to get loose from the tool holder 3D printed, a modifie
 
 You should get the following part:
 
-<img src="https://github.com/orthopus/01-mechanicals-tools/blob/main/assets/ILL-0307-%20tige%20filet%C3%A9e%2010%20mm.jpg" width="500"/>
+<img src="https://github.com/orthopus/01-mechanicals-tools/blob/main/assets/ILL-0307-%20tige%20filet%C3%A9e%2010%20mm.jpg" width="200"/>
 
 
 ### **Assembly**
