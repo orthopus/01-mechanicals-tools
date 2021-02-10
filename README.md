@@ -9,7 +9,7 @@ For now you will find :
 - **a guitar pick holder 3D printed**
 - **a tennis ball holder 3D printed** 
 
-These tools can be used with the [ORTHOPUS' universal mechanical wrist](https://github.com/orthopus/01-wrist) and his 
+These tools can be used with the [ORTHOPUS' universal mechanical wrist and/or the 3D printed Tool Holder](https://github.com/orthopus/01-wrist).
 
 
 ## WARNING NOTICE BEFORE STARTING
@@ -25,7 +25,7 @@ ORTHOPUS cannot guarantee the “quality” of solutions replicated by third par
 ### D.I.Y Level **⭐**
 
 
-**Required devices** : To make your own Pick Holder, we will need a 3D printer, a guitar pick, and some basics screws (you will find a detailed list of equipment in the *user manual*)
+**Required devices** : To make your own Pick Holder, we will need a 3D printer, a guitar pick, and some basics screws (you will find a detailed list of equipment in the [Making Manual](https://github.com/orthopus/01-mechanicals-tools/blob/main/docs/PickHolder_making-manual.md))
 
 We give more details about how to get the best experiences with the **Pick Holder** in the *user manual*.
 
@@ -41,8 +41,7 @@ To make your own Pick Holder, follow the [Making Manual](https://github.com/orth
 
 ### D.I.Y Level **⭐**
 
-**Required devices** : To make your own Tennis Ball Holder, we will need a 3D printer, a metal saw, and some basics screws (you will find a detailed list of equipment in the *user manual*)
-
+**Required devices** : To make your own Tennis Ball Holder, we will need a 3D printer, a metal saw, and some basics screws (you will find a detailed list of equipment in the [Making Manual](https://github.com/orthopus/01-mechanicals-tools/blob/main/docs/PickHolder_making-manual.md)).
 ### How to make your own 
 
 We give more details about how to get the best experiences with the **Tennis Ball Holder** in the *user manual*.
