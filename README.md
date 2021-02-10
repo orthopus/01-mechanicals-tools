@@ -24,7 +24,7 @@ ORTHOPUS cannot guarantee the “quality” of solutions replicated by third par
 
 ## GUITAR PICK HOLDER 3D PRINTED
 
-![Pick-holder_ORTHOPUS_3Dprinted](assets/Pick-holder_ORTHOPUS_3Dprinted.JPG =400x)
+![Pick-holder_ORTHOPUS_3Dprinted](.assets/Pick-holder_ORTHOPUS_3Dprinted.JPG)
 
 ### D.I.Y Level **⭐**
 
