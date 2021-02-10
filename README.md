@@ -24,14 +24,14 @@ ORTHOPUS cannot guarantee the “quality” of solutions replicated by third par
 
 ## GUITAR PICK HOLDER 3D PRINTED
 
-![Pick-holder_ORTHOPUS_3Dprinted](https://github.com/orthopus/01-mechanicals-tools/blob/main/assets/Pick-holder_ORTHOPUS_3Dprinted.JPG)
+![Pick-holder_ORTHOPUS_3Dprinted]<img src="https://github.com/orthopus/01-mechanicals-tools/blob/main/assets/Pick-holder_ORTHOPUS_3Dprinted.JPG" width="300"/>
 
 ### D.I.Y Level **⭐**
 
 
 **Required devices** : To make your own Pick Holder, we will need a 3D printer, a guitar pick, and some basics screws (you will find a detailed list of equipment in the *user manual*)
 
-We give more details about how to get the best experiences with the **Pick Holder** in the *user manual***.**
+We give more details about how to get the best experiences with the **Pick Holder** in the *user manual*.
 
 You can manufacture the Toll holder for less than 5€ : more details in the *COSTS* file.
 
@@ -49,7 +49,7 @@ To make your own Pick Holder, follow the [Making Manual](https://github.com/orth
 
 ### How to make your own 
 
-We give more details about how to get the best experiences with the **Tennis Ball Holder** in the *user manual***.**
+We give more details about how to get the best experiences with the **Tennis Ball Holder** in the *user manual*.
 
 You can manufacture the Toll holder for less than 5€ : more details in the *COSTS* file.
 
