@@ -21,7 +21,7 @@ In this manual, you will find all the resources to design the ORTHOPUS 3D printe
 
 The 3D printed body of the **Pick Holder** will firmly hold guitar picks. It will allow you through a tightening system to adjust the position and to adapt to the thickness of the guitar pick. This body needs to be connected to the **Tool Holder 3D printed.**
 
-The .STL file are available in [this repository](https://github.com/orthopus/01-wrist/tree/main/src/Tool-holder%203D%20print)
+The 2 .STL file are available in [the SRC repository](https://github.com/orthopus/01-mechanicals-tools/tree/main/src/GuitarPickHolder-3D)
 
 
 ### **Machining Operation**
