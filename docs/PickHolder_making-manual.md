@@ -1,11 +1,8 @@
 # Pick Holder 3D : Making Manual
 
-
-
 In this manual, you will find all the resources to design the Pick Holder.
 
-![Pick-holder_ORTHOPUS_3Dprinted](./assets/Pick-holder_ORTHOPUS_3Dprinted.JPG)
-
+<img src="https://github.com/orthopus/01-mechanicals-tools/blob/main/assets/Pick-holder_ORTHOPUS_3Dprinted.JPG" width="500"/>
 
 
 ### **List of Equipment**
@@ -20,12 +17,11 @@ In this manual, you will find all the resources to design the Pick Holder.
 - Cyanoacrylate glue (super glue)
 
 
-
 ### **The 3D printed body**
 
 The 3D printed body of the **Pick Holder** will firmly hold guitar picks. It will allow you through a tightening system to adjust the position and to adapt to the thickness of the guitar pick. This body needs to be connected to the **Tool Holder 3D printed.**
 
-The 2 .STL file are available in FILL THE PATH 
+The 2 .STL file are available in [this repository](https://github.com/orthopus/01-wrist/tree/main/src/Tool-holder%203D%20print)
 
 
 ### **Machining Operation**
@@ -34,12 +30,12 @@ To avoid the pick holder to get loose from the tool holder 3D printed, a modifie
 
 You should get the following part:
 
-![ILL-0307- tige filetée 10 mm](./assets/ILL-0307- tige filetée 10 mm.jpg)
+<img src="https://github.com/orthopus/01-mechanicals-tools/blob/main/assets/ILL-0307-%20tige%20filet%C3%A9e%2010%20mm.jpg" width="500"/>
 
 
 ### **Assembly**
 
-- **Assembly of the pick holder 3D printed **:
+- **Assembly of the pick holder 3D printed** :
 
 1. First, insert the 10 mm long threaded rod into the 3D printed body with a flat screwdriver. 
 2. Glue the head of the screw in the screw cap. 
@@ -52,4 +48,4 @@ You should get the following part:
 
 2. Screw the M10 modified screw in the M10 bolt.
 
-   ![Pick-holder_ORTHOPUS_assembly](./assets/Pick-holder_ORTHOPUS_assembly.jpg)
+<img src="https://github.com/orthopus/01-mechanicals-tools/blob/main/assets/Pick-holder_ORTHOPUS_assembly.jpg" width="600"/>
