@@ -1,7 +1,7 @@
 # Tennis Ball Holder : Making Manual
 
 
-<img src="https://github.com/orthopus/01-mechanicals-tools/blob/main/assets/Tennis-Ball-Holder_ORTHOPUS_3Dprinted.JPG" width="500"/>
+![Tennis-Ball-Holder_ORTHOPUS_3Dprinted](TennisBallHolder_making-manual.assets/Tennis-Ball-Holder_ORTHOPUS_3Dprinted.JPG)
 
 In this manual, you will find all the resources to design the ORTHOPUS' 3D printed Tennis Ball Holder.
 
@@ -21,7 +21,7 @@ In this manual, you will find all the resources to design the ORTHOPUS' 3D print
 
 ### **The 3D printed body** 
 
-The **Tennis Ball Holder** will house the tennis ball. It will allow you to throw the tennis ball and to serve as a pro! The 3D printed body of the Tennis ball Holder needs to be connected to the **Tool Holder 3D printed.** Thus, to make a Tennis Ball Holder compatible with the Universal Wrist you need to assemble the 3D printed body with a **Tool Holder 3D printed.**
+The **Tennis Ball Holder** will house the tennis ball. It will allow you to throw the tennis ball and to serve as a pro! The 3D printed body of the Tennis ball Holder needs to be connected to the **[Tool Holder 3D printed](https://github.com/orthopus/01-wrist).** Thus, to make a Tennis Ball Holder compatible with the Universal Wrist you need to assemble the 3D printed body with a **[Tool Holder 3D printed](https://github.com/orthopus/01-wrist).**
 
 The .STL file are available [here](https://github.com/orthopus/01-mechanicals-tools/tree/main/src/TennisBallHolder-3D)
 
@@ -39,9 +39,9 @@ We used the Ultimaker Cura slicer and an Ultimaker Extended 2+ 3D printer.
 
 To avoid the tennis ball holder to get loose from the tool holder 3D printed, a modified threaded rod needs to be made. With a metal saw, saw a M4 threaded rod or a M4 screw to get a 22 mm threaded part. To be able to screw this threaded part inside the Tennis Ball Holder, it is necessary to make a slot at one end of it. Using the saw, make a ~1 mm deep slot to be able to use a flat screwdriver to screw the threaded part inside the Tennis Ball Holder.
 
-You should get the following part :
+You should get the following part:
 
-<img src="https://github.com/orthopus/01-mechanicals-tools/blob/main/assets/ILL-0307-%20tige%20filet%C3%A9e%2022%20mm.jpg" width="200"/>
+![ILL-0307-tige-filetee_22mm](TennisBallHolder_making-manual.assets/ILL-0307-tige-filetee_22mm.jpg)
 
 
 ### **Assembly**
@@ -53,6 +53,9 @@ You should get the following part :
 **Assembly of the Tennis ball holder 3D printed onto the Tool Holder 3D printed** :
 
 1. Place the M10 bolt in its housing and the 3D printed body over the Tool Holder 3D Printed. Be careful to place the 22 mm long threaded rod into the specific hole of the Tool Holder 3D Printed.
+
 2. Screw the M10 modified screw in the M10 bolt.
 
-<img src="https://github.com/orthopus/01-mechanicals-tools/blob/main/assets/Tennis-ball-holder_ORTHOPUS_assembly.jpg" width="500"/>
+   
+
+![Tennis-ball-holder_ORTHOPUS_assembly](TennisBallHolder_making-manual.assets/Tennis-ball-holder_ORTHOPUS_assembly.jpg)
