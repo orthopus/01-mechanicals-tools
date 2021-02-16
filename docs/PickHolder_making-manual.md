@@ -10,7 +10,7 @@ In this manual, you will find all the resources to design the ORTHOPUS 3D printe
 
 - A 3D Printer
 - PLA type filament
-- A threaded rod M4
+- A threaded rod M4, zinc plated, DIN 975
 - A screw (CHC M3x8, zinc plated, DIN 912)
 - A bolt (Hu M3, zinc plated, DIN 934)
 - Cyanoacrylate glue (super glue)
@@ -22,6 +22,13 @@ The 3D printed body of the **Pick Holder** will firmly hold guitar picks. It wil
 
 The 2 .STL file are available in [the SRC repository](https://github.com/orthopus/01-mechanicals-tools/tree/main/src/GuitarPickHolder-3D)
 
+We used the Ultimaker Cura slicer and an Ultimaker Extended 2+ 3D printer. Following parameter were used:
+
+- Layer height: 0.15 mm
+- Infill density: 50%
+- Print speed: 50 mm/s
+- Fan speed: 100%
+- Build plate adhesion type: Brim
 
 ### **Machining Operation**
 

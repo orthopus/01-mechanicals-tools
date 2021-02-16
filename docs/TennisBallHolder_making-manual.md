@@ -10,7 +10,7 @@ In this manual, you will find all the resources to design the ORTHOPUS' 3D print
 
 - A 3D Printer
 - PLA type filament
-- A threaded rod M4
+- A threaded rod M4, zinc plated, DIN 975
 - a Tool Holder 3D printed
 
 **Tools :** 
@@ -29,7 +29,7 @@ We used the Ultimaker Cura slicer and an Ultimaker Extended 2+ 3D printer.
 **Following parameter were used:**
 
 - Layer height: 0.15 mm
-- Infill density: 30%
+- Infill density: 50%
 - Print speed: 50 mm/s
 - Fan speed: 100%
 - Build plate adhesion type: Brim
