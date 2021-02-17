@@ -2,7 +2,7 @@
 
 ![Generic badge](https://img.shields.io/badge/CE_Mark-NO-critical.svg)
 
-This repository contents documentation of mechanicals tools dedicated to daily life use : suitable tools to practice music, sports, cooking, etc !
+This repository contains documentation of mechanicals tools dedicated to daily life use: suitable tools to practice music, sports, cooking, etc!
 
 For now you will find : 
 
@@ -14,7 +14,7 @@ These tools can be used with the [ORTHOPUS' universal mechanical wrist and/or th
 
 ## WARNING NOTICE BEFORE STARTING
 
-The versions of our solutions reproduced in Do It Yourself do not have the CE marking. It can only be apply to solutions developed and sold by ORTHOPUS which follow the regulations in force.
+The versions of our solutions reproduced with Do It Yourself technics will not be CE marked. It can only be applied to solutions developed and sold by ORTHOPUS which follow the applicable regulations.
 ORTHOPUS cannot guarantee the “quality” of solutions replicated by third parties thanks to documentation shared on github.
 
 
@@ -25,11 +25,11 @@ ORTHOPUS cannot guarantee the “quality” of solutions replicated by third par
 ### D.I.Y Level **⭐**
 
 
-**Required devices** : To make your own Pick Holder, we will need a 3D printer, a guitar pick, and some basics screws (you will find a detailed list of equipment in the [Making Manual](https://github.com/orthopus/01-mechanicals-tools/blob/main/docs/PickHolder_making-manual.md))
+**Required devices** : To make your own Pick Holder, you will need a 3D printer, a guitar pick, and some basics screws (you will find a detailed list of equipment in the [Making Manual](https://github.com/orthopus/01-mechanicals-tools/blob/main/docs/PickHolder_making-manual.md))
 
 We give more details about how to get the best experiences with the **Pick Holder** in the *user manual*.
 
-You can manufacture the Toll holder for less than 5€ : more details in the *COSTS* file.
+You can manufacture the Tool holder for less than 1€ : more details in the *COSTS* file.
 
 To make your own Pick Holder, follow the [Making Manual](https://github.com/orthopus/01-mechanicals-tools/blob/main/docs/PickHolder_making-manual.md).
 
@@ -41,12 +41,12 @@ To make your own Pick Holder, follow the [Making Manual](https://github.com/orth
 
 ### D.I.Y Level **⭐**
 
-**Required devices** : To make your own Tennis Ball Holder, we will need a 3D printer, a metal saw, and some basics screws (you will find a detailed list of equipment in the [Making Manual](https://github.com/orthopus/01-mechanicals-tools/blob/main/docs/PickHolder_making-manual.md)).
+**Required devices** : To make your own Tennis Ball Holder, you will need a 3D printer, a metal saw, and some basics screws (you will find a detailed list of equipment in the [Making Manual](https://github.com/orthopus/01-mechanicals-tools/blob/main/docs/PickHolder_making-manual.md)).
 ### How to make your own 
 
 We give more details about how to get the best experiences with the **Tennis Ball Holder** in the *user manual*.
 
-You can manufacture the Toll holder for less than 5€ : more details in the *COSTS* file.
+You can make the Tennis Ball Holder for less than 2€ : more details in the *COSTS* file.
 
 To make your own Tennis Ball Holder, follow the [Making Manual](https://github.com/orthopus/01-mechanicals-tools/blob/main/docs/PickHolder_making-manual.md).
 
