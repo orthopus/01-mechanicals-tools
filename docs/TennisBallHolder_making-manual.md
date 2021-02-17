@@ -10,6 +10,7 @@ In this manual, you will find all the resources to design the ORTHOPUS' 3D print
 
 - A 3D Printer
 - PLA type filament
+- A Tool Holder 3D printed [Making Manual](https://github.com/orthopus/01-wrist/blob/main/docs/tool-holder-3D-printer/ToolHolder_3D_making-manual.md)
 - A threaded rod M4, zinc plated, DIN 975
 - a Tool Holder 3D printed
 
@@ -51,7 +52,7 @@ You should get the following part:
 
 **Assembly of the Tennis ball holder 3D printed onto the Tool Holder 3D printed**:
 
-1. Place the M10 bolt in its housing and the 3D printed body over the Tool Holder 3D Printed. Be careful to place the 22 mm long threaded rod into the specific hole of the Tool Holder 3D Printed.
+1. Place the M10 bolt in its housing and the 3D printed body over the Tool Holder 3D Printed (a Tool Holder 3D printed [Making Manual](https://github.com/orthopus/01-wrist/blob/main/docs/tool-holder-3D-printer/ToolHolder_3D_making-manual.md)). Be careful to place the 22 mm long threaded rod into the specific hole of the Tool Holder 3D Printed.
 
 2. Screw the M10 modified screw in the M10 bolt.
 
