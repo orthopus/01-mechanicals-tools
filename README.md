@@ -25,11 +25,10 @@ ORTHOPUS cannot guarantee the “quality” of solutions replicated by third par
 ### D.I.Y Level **⭐**
 
 
-**Required components** : To make your own Pick Holder, you will need a 3D printer, a guitar pick, a Tool Holder 3D printed ([Making Manual](https://github.com/orthopus/01-wrist/blob/main/docs/tool-holder-3D-printer/ToolHolder_3D_making-manual.md)) and some basics screws (you will find a detailed list of equipment in the [Making Manual](https://github.com/orthopus/01-mechanicals-tools/blob/main/docs/PickHolder_making-manual.md))
+**Required components**: To make your own Pick Holder, you will need a 3D printer, a guitar pick, a Tool Holder 3D printed ([Making Manual](https://github.com/orthopus/01-wrist/blob/main/docs/tool-holder-3D-printer/ToolHolder_3D_making-manual.md)) and some basics screws (you will find a detailed list of equipment in the [Making Manual](https://github.com/orthopus/01-mechanicals-tools/blob/main/docs/PickHolder_making-manual.md))
 
 We give more details about how to get the best experiences with the **Pick Holder** in the *user manual*.
-
-You can make the Pick Holder for ~2€: more details in the Bill of Material shown below and available with clickable links [here](https://github.com/orthopus/01-mechanicals-tools/blob/main/src/GuitarPickHolder-3D/ILL-0307-%20Pick%20Holder%203D%20printed_BoM.pdf).
+**How to make your own**: you can make the Pick Holder for ~2€: more details in the Bill of Material shown below and available with clickable links [here](https://github.com/orthopus/01-mechanicals-tools/blob/main/src/GuitarPickHolder-3D/ILL-0307-%20Pick%20Holder%203D%20printed_BoM.pdf).
 
 ![ILL-0307-PickHolder3Dprinted_BoM](assets/ILL-0307-PickHolder3Dprinted_BoM.jpg)
 
@@ -43,11 +42,9 @@ To make your own Pick Holder, follow the [Making Manual](https://github.com/orth
 
 ### D.I.Y Level **⭐**
 
-**Required components** : To make your own Tennis Ball Holder, you will need a 3D printer, a metal saw, a Tool Holder 3D printed ([Making Manual](https://github.com/orthopus/01-wrist/blob/main/docs/tool-holder-3D-printer/ToolHolder_3D_making-manual.md)) and some basics screws (you will find a detailed list of equipment in the [Making Manual](https://github.com/orthopus/01-mechanicals-tools/blob/main/docs/TennisBallHolder_making-manual.md)).
+**Required components**: To make your own Tennis Ball Holder, you will need a 3D printer, a metal saw, a Tool Holder 3D printed ([Making Manual](https://github.com/orthopus/01-wrist/blob/main/docs/tool-holder-3D-printer/ToolHolder_3D_making-manual.md)) and some basics screws (you will find a detailed list of equipment in the [Making Manual](https://github.com/orthopus/01-mechanicals-tools/blob/main/docs/TennisBallHolder_making-manual.md)).
 
-### How to make your own 
-
-We give more details about how to get the best experiences with the **Tennis Ball Holder** in the *user manual*.
+**How to make your own**:
 
 You can make the Tennis Ball Holder for ~2.5€: more details in the Bill of Material shown below and available with clickable links [here](https://github.com/orthopus/01-mechanicals-tools/blob/main/src/TennisBallHolder-3D/ILL-0307-TennisBallHolder3Dprinted_BoM.pdf).
 
