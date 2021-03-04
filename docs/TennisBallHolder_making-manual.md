@@ -14,9 +14,10 @@ In this manual, you will find all the resources to design the ORTHOPUS' 3D print
 - A threaded rod M4, zinc plated, DIN 975
 - a Tool Holder 3D printed
 
-More details in the Bill of Material shown below and available with clickable links [here](https://github.com/orthopus/01-mechanicals-tools/blob/main/src/GuitarPickHolder-3D/ILL-0307-%20Pick%20Holder%203D%20printed_BoM.pdf).
+More details in the Bill of Material shown below and available with clickable links [here](https://github.com/orthopus/01-mechanicals-tools/blob/main/src/TennisBallHolder-3D/ILL-0307-TennisBallHolder3Dprinted_BoM.pdf).
 
-![ILL-0307-PickHolder3Dprinted_BoM](../assets/ILL-0307-PickHolder3Dprinted_BoM.jpg)
+![ILL-0307-TennisBallHolder3Dprinted_BoM](assets/ILL-0307-TennisBallHolder3Dprinted_BoM.jpg)
+
 **Tools :** 
 
 - A metal saw
