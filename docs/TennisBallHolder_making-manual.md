@@ -16,7 +16,7 @@ In this manual, you will find all the resources to design the ORTHOPUS' 3D print
 
 More details in the Bill of Material shown below and available with clickable links [here](https://github.com/orthopus/01-mechanicals-tools/blob/main/src/TennisBallHolder-3D/ILL-0307-TennisBallHolder3Dprinted_BoM.pdf).
 
-![ILL-0307-TennisBallHolder3Dprinted_BoM](assets/ILL-0307-TennisBallHolder3Dprinted_BoM.jpg)
+![ILL-0307-TennisBallHolder3Dprinted_BoM](../assets/ILL-0307-TennisBallHolder3Dprinted_BoM.jpg)
 
 **Tools :** 
 
