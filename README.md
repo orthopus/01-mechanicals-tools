@@ -31,7 +31,7 @@ We give more details about how to get the best experiences with the **Pick Holde
 
 You can make the Pick Holder for ~2€: more details in the Bill of Material shown below and available with clickable links [here](https://github.com/orthopus/01-mechanicals-tools/blob/main/src/GuitarPickHolder-3D/ILL-0307-%20Pick%20Holder%203D%20printed_BoM.pdf).
 
-<img src="https://github.com/orthopus/01-mechanicals-tools/blob/main/src/GuitarPickHolder-3D/ILL-0307-%20PickHolder3Dprinted_BoM.pdf" width="700"/>
+![ILL-0307-PickHolder3Dprinted_BoM](assets/ILL-0307-PickHolder3Dprinted_BoM.jpg)
 
 To make your own Pick Holder, follow the [Making Manual](https://github.com/orthopus/01-mechanicals-tools/blob/main/docs/PickHolder_making-manual.md).
 
@@ -51,7 +51,7 @@ We give more details about how to get the best experiences with the **Tennis Bal
 
 You can make the Tennis Ball Holder for ~2.5€: more details in the Bill of Material shown below and available with clickable links [here](https://github.com/orthopus/01-mechanicals-tools/blob/main/src/TennisBallHolder-3D/ILL-0307-TennisBallHolder3Dprinted_BoM.pdf).
 
-<img src="https://github.com/orthopus/01-mechanicals-tools/blob/main/src/TennisBallHolder-3D/ILL-0307-TennisBallHolder3Dprinted_BoM.pdf" width="700"/>
+![ILL-0307-TennisBallHolder3Dprinted_BoM](assets/ILL-0307-TennisBallHolder3Dprinted_BoM.jpg)
 
 To make your own Tennis Ball Holder, follow the [Making Manual](https://github.com/orthopus/01-mechanicals-tools/blob/main/docs/TennisBallHolder_making-manual.md).
 
