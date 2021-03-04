@@ -8,7 +8,6 @@ In this manual, you will find all the resources to design the ORTHOPUS' 3D print
 
 **To design the Tennis Ball Holder you will need :**
 
-- A 3D Printer
 - PLA type filament
 - A Tool Holder 3D printed [Making Manual](https://github.com/orthopus/01-wrist/blob/main/docs/tool-holder-3D-printer/ToolHolder_3D_making-manual.md)
 - A threaded rod M4, zinc plated, DIN 975
@@ -21,7 +20,7 @@ More details in the Bill of Material shown below and available with clickable li
 **Tools :** 
 
 - A metal saw
-
+- A 3D Printer
 
 ### **The 3D printed body** 
 
