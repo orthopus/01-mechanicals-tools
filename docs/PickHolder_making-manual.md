@@ -16,6 +16,9 @@ In this manual, you will find all the resources to design the ORTHOPUS 3D printe
 - A bolt (Hu M3, zinc plated, DIN 934)
 - Cyanoacrylate glue (super glue)
 
+More details in the Bill of Material shown below and available with clickable links [here](https://github.com/orthopus/01-mechanicals-tools/blob/main/src/GuitarPickHolder-3D/ILL-0307-%20PickHolder3Dprinted_BoM.pdf).
+
+![ILL-0307-PickHolder3Dprinted_BoM](../assets/ILL-0307-PickHolder3Dprinted_BoM.jpg)
 
 ### **The 3D printed body**
 
