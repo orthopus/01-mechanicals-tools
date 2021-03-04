@@ -8,17 +8,21 @@ In this manual, you will find all the resources to design the ORTHOPUS 3D printe
 
 **To design the Pick Holder you will need :**
 
-- A 3D Printer
 - PLA type filament
 - A Tool Holder 3D printed ([Making Manual](https://github.com/orthopus/01-wrist/blob/main/docs/tool-holder-3D-printer/ToolHolder_3D_making-manual.md))
 - A threaded rod M4, zinc plated, DIN 975
 - A screw (CHC M3x8, zinc plated, DIN 912)
 - A bolt (Hu M3, zinc plated, DIN 934)
-- Cyanoacrylate glue (super glue)
 
 More details in the Bill of Material shown below and available with clickable links [here](https://github.com/orthopus/01-mechanicals-tools/blob/main/src/GuitarPickHolder-3D/ILL-0307-%20PickHolder3Dprinted_BoM.pdf).
 
 ![ILL-0307-PickHolder3Dprinted_BoM](../assets/ILL-0307-PickHolder3Dprinted_BoM.jpg)
+
+**Tools :**
+
+- A 3D Printer
+- Cyanoacrylate glue (super glue)
+
 
 ### **The 3D printed body**
 
