@@ -1,8 +1,0 @@
-Item,Qty,Part Number,Material,Unit Price,Link
-1,1,E-LIB-NUT-HM_M10_x_ZP_DIN439,Steel Zinc Plated,0.1€,https://www.visseriefixations.fr/contre-ecrou-hm-m10-z-blanc-din-439.html
-2,1,E-LIB-NUT-HU_M3_x_ZP_DIN934,Steel Zinc Plated,0.1€,https://www.visseriefixations.fr/ecrou-hu-m3-z-blanc-din-934.html
-3,1,M-0112-041001-PicksHolder,PLA,~ 0.5€ (13g),https://github.com/orthopus/01-mechanicals-tools/blob/main/src/GuitarPickHolder-3D/PICK-HOLDER_210122.stl
-4,1,C-0112-041003-Pick,Nylon,1.5€,https://www.thomann.de/fr/harley_benton_guitarpick_medium_5_pack.htm
-5,1,E-LIB-SCR-TCHC_M3x8_xx_ZP_DIN912,Steel Zinc Plated,0.05€,https://www.visseriefixations.fr/tchc-m3x8-acier-8-8-z-blanc-ef-din-912.html
-6,1,M-0112-041002-ScrewCap,PLA,~0.1€ (1g),https://github.com/orthopus/01-mechanicals-tools/blob/main/src/GuitarPickHolder-3D/PICK-HOLDER_ScrewCap_210122.stl
-7,1,MC-0112-TRD-xx_M4x10_88_ZP_DIN975,Steel Zinc Plated,0.5€,https://www.visseriefixations.fr/tige-filetee-m4-acier-4-6-z-blanc-din-975.html
