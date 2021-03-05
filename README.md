@@ -1,6 +1,9 @@
 # Mechanicals Tools for hand amputees
 
+![Generic badge](https://img.shields.io/badge/version-DIY-yellow.svg)
 ![Generic badge](https://img.shields.io/badge/CE_Mark-NO-critical.svg)
+
+
 
 This repository contains documentation of mechanicals tools dedicated to daily life use: suitable tools to practice music, sports, cooking, etc!
 
