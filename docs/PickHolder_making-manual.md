@@ -21,10 +21,21 @@ More details in the Bill of Material shown below and available with clickable li
 **Tools :**
 
 - A 3D Printer
+
 - Cyanoacrylate glue (super glue)
+
+  
 
 
 ### **The 3D printed body**
+
+[![PicksHolder_Fusion360viewer](../assets/PicksHolder_Fusion360viewer.png)](https://a360.co/3dsERMs)
+
+
+
+🧐 *Tip : open the image in a new tab to view the Pick Holder in Fusion 360 viewer*
+
+
 
 The 3D printed body of the **Pick Holder** will firmly hold guitar picks. It will allow you through a tightening system to adjust the position and to adapt to the thickness of the guitar pick. This body needs to be connected to the **[Tool Holder 3D printed](https://github.com/orthopus/01-wrist).**
 
@@ -33,10 +44,16 @@ The 2 .STL file are available in [the SRC repository](https://github.com/orthopu
 We used the Ultimaker Cura slicer and an Ultimaker Extended 2+ 3D printer. Following parameter were used:
 
 - Layer height: 0.15 mm
+
 - Infill density: 50%
+
 - Print speed: 50 mm/s
+
 - Fan speed: 100%
+
 - Build plate adhesion type: Brim
+
+  
 
 ### **Machining Operation**
 

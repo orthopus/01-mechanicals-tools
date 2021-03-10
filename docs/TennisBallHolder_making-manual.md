@@ -24,6 +24,10 @@ More details in the Bill of Material shown below and available with clickable li
 
 ### **The 3D printed body** 
 
+[![Tennis_Ball_Holder_Fusion360viewer](../assets/Tennis_Ball_Holder_Fusion360viewer.png)](https://a360.co/30sFVIv)
+
+🧐 *Tip : open the image in a new tab to view the Tennis Ball Holder in Fusion 360 viewer*
+
 The **Tennis Ball Holder** will house the tennis ball. It will allow you to throw the tennis ball and to serve as a pro! The 3D printed body of the Tennis ball Holder needs to be connected to the **[Tool Holder 3D printed](https://github.com/orthopus/01-wrist).** Thus, to make a Tennis Ball Holder compatible with the Universal Wrist you need to assemble the 3D printed body with a **[Tool Holder 3D printed](https://github.com/orthopus/01-wrist).**
 
 The .STL file are available [here](https://github.com/orthopus/01-mechanicals-tools/tree/main/src/TennisBallHolder-3D)
